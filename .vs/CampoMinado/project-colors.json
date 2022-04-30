@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b57a4f4a-b8b7-4b1a-95fa-a1cb7653ae3e": {
+      "ProjectGuid": "b57a4f4a-b8b7-4b1a-95fa-a1cb7653ae3e",
+      "DisplayName": "CampoMinadoLibrary",
+      "ColorIndex": 0
+    },
+    "73a50da3-4f7d-4ecf-bbcb-63b00d31293b": {
+      "ProjectGuid": "73a50da3-4f7d-4ecf-bbcb-63b00d31293b",
+      "DisplayName": "CampoMinadoTeste",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "8e7142da-85fb-4411-ad05-a28026f0faf0": {
+      "ProjectGuid": "8e7142da-85fb-4411-ad05-a28026f0faf0",
+      "DisplayName": "CampoMinadoView",
+      "ColorIndex": 2
+    },
+    "1473c9e6-ce42-4e32-9f51-9788b87a6e2c": {
+      "ProjectGuid": "1473c9e6-ce42-4e32-9f51-9788b87a6e2c",
+      "DisplayName": "CampoMinadoView2",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

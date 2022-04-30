@@ -1,0 +1,12 @@
+D:\dev\CampoMinado\CampoMinado\CampoMinadoLibrary\bin\Debug\net5.0\CampoMinadoLibrary.deps.json
+D:\dev\CampoMinado\CampoMinado\CampoMinadoLibrary\bin\Debug\net5.0\CampoMinadoLibrary.dll
+D:\dev\CampoMinado\CampoMinado\CampoMinadoLibrary\bin\Debug\net5.0\ref\CampoMinadoLibrary.dll
+D:\dev\CampoMinado\CampoMinado\CampoMinadoLibrary\bin\Debug\net5.0\CampoMinadoLibrary.pdb
+D:\dev\CampoMinado\CampoMinado\CampoMinadoLibrary\obj\Debug\net5.0\CampoMinadoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\CampoMinado\CampoMinado\CampoMinadoLibrary\obj\Debug\net5.0\CampoMinadoLibrary.AssemblyInfoInputs.cache
+D:\dev\CampoMinado\CampoMinado\CampoMinadoLibrary\obj\Debug\net5.0\CampoMinadoLibrary.AssemblyInfo.cs
+D:\dev\CampoMinado\CampoMinado\CampoMinadoLibrary\obj\Debug\net5.0\CampoMinadoLibrary.csproj.CoreCompileInputs.cache
+D:\dev\CampoMinado\CampoMinado\CampoMinadoLibrary\obj\Debug\net5.0\CampoMinadoLibrary.dll
+D:\dev\CampoMinado\CampoMinado\CampoMinadoLibrary\obj\Debug\net5.0\ref\CampoMinadoLibrary.dll
+D:\dev\CampoMinado\CampoMinado\CampoMinadoLibrary\obj\Debug\net5.0\CampoMinadoLibrary.pdb
+D:\dev\CampoMinado\CampoMinado\CampoMinadoLibrary\obj\Debug\net5.0\CampoMinadoLibrary.csproj.AssemblyReference.cache

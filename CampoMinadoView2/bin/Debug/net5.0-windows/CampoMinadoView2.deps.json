@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CampoMinadoView2/1.0.0": {
+        "dependencies": {
+          "CampoMinadoLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CampoMinadoView2.dll": {}
+        }
+      },
+      "CampoMinadoLibrary/1.0.0": {
+        "runtime": {
+          "CampoMinadoLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CampoMinadoView2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CampoMinadoLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
